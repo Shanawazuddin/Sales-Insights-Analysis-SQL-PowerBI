@@ -1,4 +1,4 @@
-### **Sales-Insights-Analysis-SQL-PowerBI**
+# **Sales-Insights-Analysis-SQL-PowerBI**
 
 This project demonstrates an analysis of sales data using **SQL** for data querying and **Power BI** for creating insightful and interactive dashboards. The goal was to derive actionable insights into sales trends, revenue patterns, profit margins, and market performance to support strategic decision-making.
 
