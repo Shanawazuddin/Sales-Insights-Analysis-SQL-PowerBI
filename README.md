@@ -1,4 +1,4 @@
-### README for GitHub Repository: **Sales-Insights-Analysis-SQL-PowerBI**
+### **Sales-Insights-Analysis-SQL-PowerBI**
 
 This project demonstrates an analysis of sales data using **SQL** for data querying and **Power BI** for creating insightful and interactive dashboards. The goal was to derive actionable insights into sales trends, revenue patterns, profit margins, and market performance to support strategic decision-making.
 
@@ -175,26 +175,6 @@ Target Diff = [Profit Margin %] - 'Profit Target'[Profit Target Value]
 
 ---
 
-## Repository Structure  
-```
-|-- /SQL_Scripts
-|    |-- sales_insights_queries.sql  
-|
-|-- /PowerBI_Dashboard
-|    |-- sales_insights.pbix  
-|
-|-- README.md  
-```
-
----
-
 ## Conclusion  
 This project highlights the power of combining SQL and Power BI to derive actionable insights from sales data. From querying databases to visualizing trends and KPIs, it demonstrates the value of data analysis in driving business decisions.
 
----
-
-Feel free to explore the repository and provide your feedback or suggestions. Let’s collaborate to improve our data analysis skills! 😊
-
----
-
-Would you like help setting up the files or creating the Power BI visuals?
